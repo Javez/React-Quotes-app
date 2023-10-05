@@ -9,4 +9,5 @@ Used:
 - React
 - Firebase
 ```
-![изображение](https://github.com/Javez/React-Quotes-app/assets/66317972/c42a3a40-2b3f-45b1-8930-2b36d4636105)
+![изображение](https://github.com/Javez/React-Quotes-app/assets/66317972/41a0b8ce-5f33-4dc6-b5a7-06c0a8e6d16d)
+
