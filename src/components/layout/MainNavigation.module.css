@@ -5,7 +5,7 @@
   padding: 0 10%;
   justify-content: space-between;
   align-items: center;
-  background-color: #008080;
+  background-color: #228B22;
 }
 
 .logo {
@@ -27,11 +27,11 @@
 
 .nav a {
   text-decoration: none;
-  color: #88dfdf;
+  color: #FFD700;
 }
 
 .nav a:hover,
 .nav a:active,
 .nav a.active {
-  color: #e6fcfc;
+  color: #000000;
 }
